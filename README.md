@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📊 FD Calculator
+# 🧮 FD Calculator
 
 ### Use FD Calculator free on ToolAdda — quick, accurate, and browser-based.
 
