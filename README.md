@@ -2,14 +2,14 @@
 
 # 🧮 FD Calculator
 
-### Use FD Calculator free on ToolAdda — quick, accurate, and browser-based.
+### Calculate maturity amount, total interest, effective annual yield, post-tax return, and inflation-adjusted real return for any fixed deposit. Model senior citizen rates, simple or compound interest, cumulative or payout FDs, and premature withdrawal — all in one calculator that runs entirely in your browser.
 
 [![Visit FD Calculator](https://img.shields.io/badge/Visit%20FD%20Calculator-6366f1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tooladda.online/calculators/fd-calculator.html)
 [![ToolAdda Home](https://img.shields.io/badge/ToolAdda.online-8b5cf6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIi8+PC9zdmc+)](https://tooladda.online)
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/calculators/fd-calculator.html)
 [![Category](https://img.shields.io/badge/Calculators-f59e0b?style=for-the-badge)](#)
 
-**Use FD Calculator | ToolAdda to estimate maturity amount, total interest, and compound growth for fixed deposits.**
+**Calculate FD maturity amount, interest earned, effective yield, and post-tax returns instantly. Senior citizen rates, TDS, and inflation-adjusted real returns — free, private, in your browser.**
 
 [🚀 **Open FD Calculator Now →**](https://tooladda.online/calculators/fd-calculator.html)
 
@@ -91,11 +91,21 @@ Visit tooladda.online — search for FD Calculator or use the link in this repos
 ## 🔍 SEO keywords
 
 <p align="center">
-  <code>FD calculator</code>&nbsp;
+  <code>fd calculator</code>&nbsp;
   <code>fixed deposit calculator</code>&nbsp;
-  <code>maturity amount</code>&nbsp;
-  <code>compound interest calculator</code>&nbsp;
-  <code>fixed deposit maturity</code>&nbsp;
+  <code>fd interest calculator</code>&nbsp;
+  <code>calculate fd interest</code>&nbsp;
+  <code>fixed deposit interest calculator</code>&nbsp;
+  <code>bank fd calculator</code>&nbsp;
+  <code>fd maturity calculator</code>&nbsp;
+  <code>senior citizen fd calculator</code>&nbsp;
+  <code>tax saving fd calculator</code>&nbsp;
+  <code>online fd calculator</code>&nbsp;
+  <code>fd calculator with maturity amount</code>&nbsp;
+  <code>fixed deposit calculator online</code>&nbsp;
+  <code>calculate fd maturity value</code>&nbsp;
+  <code>quarterly compounding fd calculator</code>&nbsp;
+  <code>fd calculator india</code>&nbsp;
 </p>
 
 ---
@@ -112,4 +122,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: FD Calculator, FD calculator, fixed deposit calculator, maturity amount, compound interest calculator, fixed deposit maturity, tooladda, free online tool -->
+<!-- SEO: FD Calculator, fd calculator, fixed deposit calculator, fd interest calculator, calculate fd interest, fixed deposit interest calculator, bank fd calculator, fd maturity calculator, senior citizen fd calculator, tax saving fd calculator, online fd calculator, fd calculator with maturity amount, fixed deposit calculator online, calculate fd maturity value, quarterly compounding fd calculator, fd calculator india, tooladda, free online tool -->
